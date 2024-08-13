@@ -1,0 +1,14 @@
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/bin/Debug/net8.0/Student Database
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/bin/Debug/net8.0/Student Database.deps.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/bin/Debug/net8.0/Student Database.runtimeconfig.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/bin/Debug/net8.0/Student Database.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/bin/Debug/net8.0/Student Database.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/Student Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/Student Database.AssemblyInfoInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/Student Database.AssemblyInfo.cs
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/Student Database.csproj.CoreCompileInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/Student Database.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/refint/Student Database.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/Student Database.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/Student Database.genruntimeconfig.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Student Database/Student Database/obj/Debug/net8.0/ref/Student Database.dll
